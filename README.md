@@ -29,12 +29,6 @@ PCB
 <img src=assets/pcb.png alt="pcb" width="300"/>
 
 
-## Firmware Overview
-This hackpad uses [QMK](https://qmk.fm/) firmware for everything. 
-
-- caution: the current keybinds are not advised for actual use
-
-<img src=assets/layout.png alt="keyboard layout" width="300"/>
 
 
 ## BOM:
